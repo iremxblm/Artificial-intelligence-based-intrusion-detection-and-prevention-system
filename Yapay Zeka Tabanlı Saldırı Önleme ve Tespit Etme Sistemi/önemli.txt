@@ -1,0 +1,2 @@
+-Gerekli kütüphanelerin kurulumu gerçekleştirildikten sonra
+uygulama çalışmaya hazır olacaktır.
